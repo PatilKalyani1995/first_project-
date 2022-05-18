@@ -1,7 +1,8 @@
 
 a=10
 b=20
-c= a+b
-print(c)
+c=10
+final_result= a+b-c
+print(fina_result)
 
 
